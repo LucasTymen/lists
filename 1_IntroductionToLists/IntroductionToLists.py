@@ -13,7 +13,9 @@ Suppose we want to make a list of the heights of students in a class:
 
 In Python, we can create a variable called heights to store these integers into a list:
 """
+
 heights = [61, 70, 67, 64]
+
 """
 Notice that:
 
