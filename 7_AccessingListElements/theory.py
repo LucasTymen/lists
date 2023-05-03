@@ -14,10 +14,10 @@ Python lists are zero-indexed. This means that the first element in a list has i
 
 Here are the index numbers for the list calls:
 Element 	Index
-"Juan" 	0
+"Juan" 	  0
 "Zofia" 	1
 "Amare" 	2
-"Ezio" 	3
+"Ezio" 	  3
 "Ananya" 	4
 
 In this example, the element with index 2 is "Amare".
